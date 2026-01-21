@@ -32,6 +32,8 @@ Here, you will find a collection of my projects reflecting my journey in softwar
   * *Projects:* [Bus Away: Traffic Jam](https://play.google.com/store/apps/details?id=com.fc.bus.away.traffic.jam&pcampaignid=web_share), [Block Escape PvP](https://play.google.com/store/apps/details?id=com.fc.sdk.block.escape&pcampaignid=web_share), [Yarn Pull 3D](https://play.google.com/store/apps/details?id=com.fc.knit.jam.wool.sort.puzzle&pcampaignid=web_share).
   * *Role:* Designing levels and balancing difficulty to enhance player retention and engagement.
 
+* **Indie Game Developer**
+  * *Projects:* [Break It All](https://hoangtudonganh72.itch.io/break-it-all)
 ---
 
 ### 🏆 Achievements & Education
