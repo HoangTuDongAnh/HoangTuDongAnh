@@ -33,7 +33,7 @@ Here, you will find a collection of my projects reflecting my journey in softwar
   * *Role:* Designing levels and balancing difficulty to enhance player retention and engagement.
 
 * **Indie Game Developer**
-  * *Projects:* [Break It All](https://hoangtudonganh72.itch.io/break-it-all)
+  * *Projects:* [Don't Let The Ball Fall](https://hoangtudonganh72.itch.io/dont-let-the-ball-fall), [Break It All](https://hoangtudonganh72.itch.io/break-it-all)
 ---
 
 ### 🏆 Achievements & Education
