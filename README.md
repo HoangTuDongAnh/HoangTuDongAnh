@@ -20,6 +20,7 @@
 Here, you will find a collection of my projects reflecting my journey in software and game development:
 
 * **📦 UP-*** (Unity Packages): Custom modules and tools developed for reusability in Unity.
+* **🧰 SK-*** (Starter Kits): Reusable starter templates and boilerplates for quickly bootstrapping new projects.
 * **🧪 LN-*** (Learning): Sandbox projects for researching algorithms, techniques, and coding patterns.
 * **🚀 HN-*** (Personal Projects): My main games and applications, ranging from prototypes to full releases.
 * **📚 Others:** University coursework, Computer Science fundamentals, and study materials.
@@ -41,3 +42,17 @@ Here, you will find a collection of my projects reflecting my journey in softwar
 * **🥇 Academic:** GPA **3.4/4.0** (Current cumulative over 5 semesters) | Won **2x University Scholarships**.
 * **🔬 Research:** **3rd Prize** in University Student Scientific Research (Nghiên cứu khoa học).
 * **🎮 Game Jams:** Participated in **GMTK Game Jam 2024** - Check out my entry: [Build to Scale](https://itch.io/jam/gmtk-2024/rate/2888412).
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HoangTuDongAnh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HoangTuDongAnh&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTuDongAnh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
